@@ -10,11 +10,7 @@ Este repositório contém a entrega final do projeto da disciplina de Desenvolvi
 - Controle de Versão
 - Acessibilidade
 - Otimização para Produção
-- Como Executar o Projeto
-- Deploy
 - Documentação Técnica
-- Contribuições
-- Licença
 
 ## 🎯 Objetivos
 - Aplicar práticas profissionais de versionamento com Git/GitHub.
